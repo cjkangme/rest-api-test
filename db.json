@@ -1,5 +1,6 @@
-[
-  {
+{
+  "notifications": [
+    {
     "user-id": "1",
     "space-id": "1",
     "thumbnail": "",
@@ -31,4 +32,5 @@
     "username": "뽀로리",
     "target": ""
   }
-]
+  ]
+}
