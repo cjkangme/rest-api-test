@@ -1,0 +1,34 @@
+[
+  {
+    "user-id": "1",
+    "space-id": "1",
+    "thumbnail": "",
+    "type": "space",
+    "username": "누렁이",
+    "target": "내 방"
+  },
+  {
+    "user-id": "2",
+    "space-id": "2",
+    "thumbnail": "",
+    "type": "memory",
+    "username": "뽀삐",
+    "target": "소중한 기억"
+  },
+  {
+    "user-id": "3",
+    "space-id": "3",
+    "thumbnail": "",
+    "type": "guest-book",
+    "username": "아리",
+    "target": "자취방"
+  },
+  {
+    "user-id": "4",
+    "space-id": "",
+    "thumbnail": "",
+    "type": "friend",
+    "username": "뽀로리",
+    "target": ""
+  }
+]
