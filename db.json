@@ -1,32 +1,32 @@
 {
   "notifications": [
     {
-    "user-id": "1",
-    "space-id": "1",
+    "userId": "1",
+    "spaceId": "1",
     "thumbnail": "https://randomuser.me/api/portraits/lego/8.jpg",
     "type": "space",
     "username": "누렁이",
     "target": "내 방"
   },
   {
-    "user-id": "2",
-    "space-id": "2",
+    "userId": "2",
+    "spaceId": "2",
     "thumbnail": "https://randomuser.me/api/portraits/lego/1.jpg",
     "type": "memory",
     "username": "뽀삐",
     "target": "소중한 기억"
   },
   {
-    "user-id": "3",
-    "space-id": "3",
+    "userId": "3",
+    "spaceId": "3",
     "thumbnail": "https://randomuser.me/api/portraits/lego/1.jpg",
     "type": "guest-book",
     "username": "아리",
     "target": "자취방"
   },
   {
-    "user-id": "4",
-    "space-id": "",
+    "userId": "4",
+    "spaceId": "",
     "thumbnail": "https://randomuser.me/api/portraits/lego/6.jpg",
     "type": "friend",
     "username": "뽀로리",
